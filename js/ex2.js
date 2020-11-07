@@ -7,7 +7,7 @@ document.querySelector('#btn').addEventListener('click', () => {
     totala= n1+n2;
     totals= n1-n2;
     totalm= n1*n2;
-     
+    
     
     if (n2 == 0) {
         totald = 'Impossível dividir por zero!'
